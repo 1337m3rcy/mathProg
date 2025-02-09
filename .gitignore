@@ -1,0 +1,11 @@
+# Исключаем файлы и папки проекта PyCharm
+*.iml
+*.xml
+.idea/
+
+# Исключение для окружений Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
